@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.mp4
+*.mkv
+*.avi
+vc_tmp_*
+.idea/
+.vscode/
